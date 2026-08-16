@@ -72,9 +72,37 @@ An Airbnb-inspired rental listing platform built on **MVC architecture**, suppor
 
 <br>
 
-## Technical Skills
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
+
+**🎨 Frontend Magic**
+
+<img src="https://img.shields.io/badge/React-991b1b?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-991b1b?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-991b1b?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-991b1b?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/EJS-991b1b?style=for-the-badge&logoColor=white" />
+
+<br><br>
+
+**⚙️ Backend Power**
+
+<img src="https://img.shields.io/badge/Node.js-991b1b?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-991b1b?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-991b1b?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-991b1b?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Passport.js-991b1b?style=for-the-badge&logo=passport&logoColor=white" />
+
+<br><br>
+
+**🗄️ Database & Cloud**
+
+<img src="https://img.shields.io/badge/MongoDB-991b1b?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-991b1b?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-991b1b?style=for-the-badge&logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet.js-991b1b?style=for-the-badge&logo=leaflet&logoColor=white" />
+
+<br><br>
+
+**💻 Languages & Tools**
+
+<img src="https://img.shields.io/badge/Java-991b1b?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-991b1b?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-991b1b?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-991b1b?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Git-991b1b?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-991b1b?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-991b1b?style=for-the-badge&logo=linux&logoColor=white" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,react,nodejs,express,mongodb,git,github,docker,linux,postman&theme=dark" />
 
@@ -82,11 +110,13 @@ An Airbnb-inspired rental listing platform built on **MVC architecture**, suppor
 
 <br>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 <table>
-<tr><td><strong>Languages</strong></td><td>Java · Python · C · C++ · JavaScript · HTML · CSS · SQL</td></tr>
-<tr><td><strong>Frameworks & Libraries</strong></td><td>React.js · Node.js · Express.js · REST APIs · Leaflet.js · Passport.js</td></tr>
-<tr><td><strong>Databases & Tools</strong></td><td>MongoDB · Git · GitHub · Docker · Linux · Postman · Cloudinary · Thunder Client</td></tr>
 <tr><td><strong>Core CS</strong></td><td>Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks</td></tr>
+<tr><td><strong>Databases & Tools</strong></td><td>MongoDB · Git · GitHub · Docker · Linux · Postman · Cloudinary · Thunder Client</td></tr>
 </table>
 
 <br>
