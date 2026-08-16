@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=650&lines=const+softwareEngineer+%3D+%7B+name%3A+%22Manas%22+%7D%3B;building+scalable+systems+that+just+work;interested+in+AI-integrated+projects;196+LeetCode+problems+solved;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=650&lines=const+softwareEngineer+%3D+%7B+name%3A+%22Manas%22+%7D%3B;building+scalable+systems+that+just+work;interested+in+AI-integrated+projects;solving+DSA+problems+daily+on+LeetCode;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## Profile
 
-Computer Science undergraduate at VIT Chennai (**GPA 8.94/10**) and a software engineer at heart — someone who cares about how systems are designed, not just what they do. Experienced in building and deploying full-stack and AI-integrated applications using React, Node.js, and MongoDB, with a particular interest in AI-integrated projects. Solid grounding in data structures and algorithms, backed by **196 LeetCode problems solved** through consistent, daily practice. Currently preparing for placements at product-based companies, with a focus on building scalable systems and writing clean, maintainable code.
+Computer Science undergraduate at VIT Chennai (**GPA 8.94/10**) and a software engineer at heart — someone who cares about how systems are designed, not just what they do. Experienced in building and deploying full-stack and AI-integrated applications using React, Node.js, and MongoDB, with a particular interest in AI-integrated projects. Solid grounding in data structures and algorithms, sharpened through consistent, daily LeetCode practice. Currently preparing for placements at product-based companies, with a focus on building scalable systems and writing clean, maintainable code.
 
 <br>
 
@@ -99,9 +99,11 @@ An Airbnb-inspired rental listing platform built on **MVC architecture**, suppor
 
 <br><br>
 
-<table>
-<tr><td align="center"><strong>196</strong><br>Total Solved</td><td align="center"><strong>98</strong><br>Easy</td><td align="center"><strong>91</strong><br>Medium</td><td align="center"><strong>7</strong><br>Hard</td></tr>
-</table>
+<img src="https://leetcard.jacoblin.cool/manasturlapati?theme=dark&font=baloo2&ext=activity" width="500" />
+
+<br>
+
+<sub>Updates automatically as new problems are solved</sub>
 
 <br>
 
