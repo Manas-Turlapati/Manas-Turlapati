@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=650&lines=const+Problem Solving+%3D+%7B+name%3A+%22Manas%22+%7D%3B;building+scalable+systems+that+just+work;interested+in+AI-integrated+projects;solving+DSA+problems+daily+on+LeetCode;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=650&lines=const+ProblemSolving+%3D+%7B+name%3A+%22Manas%22+%7D%3B;building+scalable+systems+that+just+work;interested+in+AI-integrated+projects;solving+DSA+problems+daily+on+LeetCode;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
 
 </div>
 
