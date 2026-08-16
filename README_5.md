@@ -172,16 +172,18 @@ Consistent, daily problem-solving — reflected in back-to-back LeetCode streak 
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Manas-Turlapati/Manas-Turlapati/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+
+<sub>⚠️ Renders once the <code>github-snake</code> Action is set up on a repo named <code>Manas-Turlapati/Manas-Turlapati</code> — see setup note below.</sub>
+
+<br><br>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Manas-Turlapati&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&bg_color=0d1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Turlapati&layout=compact&theme=dark&hide_border=true&title_color=ef4444&text_color=c9d1d9&bg_color=0d1117" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Turlapati&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manas-Turlapati&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://streak-stats.demolab.com/?user=Manas-Turlapati&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 <br>
 
