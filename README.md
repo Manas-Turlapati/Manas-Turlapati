@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,100:ef4444&height=180&section=header&text=Manas%20Turlapati&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20(MERN)%20Developer%20%C2%B7%20AI%2FLLM%20Integration&descAlignY=58&descSize=16&descColor=fde8e8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,100:ef4444&height=180&section=header&text=Manas%20Turlapati&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Interested%20in%20AI-Integrated%20Projects&descAlignY=58&descSize=16&descColor=fde8e8&animation=fadeIn" width="100%"/>
 
 <p>
   <a href="https://linkedin.com/in/manasturlapati"><img src="https://img.shields.io/badge/LinkedIn-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=650&lines=const+developer+%3D+%7B+name%3A+%22Manas%22+%7D%3B;building+full-stack+%2B+AI-powered+apps;196+LeetCode+problems+solved;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=650&lines=const+softwareEngineer+%3D+%7B+name%3A+%22Manas%22+%7D%3B;building+scalable+systems+that+just+work;interested+in+AI-integrated+projects;196+LeetCode+problems+solved;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## Profile
 
-Computer Science undergraduate at VIT Chennai (**GPA 8.94/10**) with hands-on experience designing and deploying full-stack AI and marketplace applications using React, Node.js, and MongoDB. Solid grounding in data structures and algorithms, backed by **196 LeetCode problems solved** through consistent, daily practice. Currently preparing for placements at product-based companies, with a focus on building scalable systems and writing clean, maintainable code.
+Computer Science undergraduate at VIT Chennai (**GPA 8.94/10**) and a software engineer at heart — someone who cares about how systems are designed, not just what they do. Experienced in building and deploying full-stack and AI-integrated applications using React, Node.js, and MongoDB, with a particular interest in AI-integrated projects. Solid grounding in data structures and algorithms, backed by **196 LeetCode problems solved** through consistent, daily practice. Currently preparing for placements at product-based companies, with a focus on building scalable systems and writing clean, maintainable code.
 
 <br>
 
@@ -130,9 +130,9 @@ Consistent, daily problem-solving — reflected in back-to-back LeetCode streak 
 
 ## Certifications
 
-- **Full Stack Web Development (Sigma)** — Apna College
-- **Full Stack Development** — Skill Craft Technology
-- **Java (Basic)** — HackerRank
+- **Full Stack Web Development (Sigma)** — Apna College — [View Certificate →](https://drive.google.com/file/d/1NE9vJTvnavINwLZecM3dhGaSa5Ycg_Ra/view)
+- **Full Stack Development** — Skill Craft Technology — [View Certificate →](https://drive.google.com/file/d/1_KN-sfNDnBCr6HVB2PBRRyioNr6beitb/view?usp=sharing)
+- **Java (Basic)** — HackerRank — [View Certificate →](https://drive.google.com/file/d/1SW4vJmLH-kdYorgDk4NG7sKuMJIbuHg3/view?usp=sharing)
 
 <br>
 
@@ -161,7 +161,7 @@ Consistent, daily problem-solving — reflected in back-to-back LeetCode streak 
 
 ## Currently Focused On
 
-Interview and system-design preparation for product-based company placements, alongside continued work on full-stack and AI/LLM-integrated applications.
+Interview and system-design preparation for product-based company placements, alongside continued work on scalable systems and AI-integrated applications.
 
 <br>
 
