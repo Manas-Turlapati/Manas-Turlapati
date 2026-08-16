@@ -82,29 +82,29 @@ An Airbnb-inspired rental listing platform built on **MVC architecture**, suppor
 
 **🎨 Frontend Magic**
 
-<img src="https://img.shields.io/badge/React-991b1b?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-991b1b?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-991b1b?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-991b1b?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/EJS-991b1b?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logoColor=black" />
 
 <br><br>
 
 **⚙️ Backend Power**
 
-<img src="https://img.shields.io/badge/Node.js-991b1b?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-991b1b?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-991b1b?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-991b1b?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Passport.js-991b1b?style=for-the-badge&logo=passport&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
 
 <br><br>
 
 **🗄️ Database & Cloud**
 
-<img src="https://img.shields.io/badge/MongoDB-991b1b?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-991b1b?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-991b1b?style=for-the-badge&logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet.js-991b1b?style=for-the-badge&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 
 <br><br>
 
 **💻 Languages & Tools**
 
-<img src="https://img.shields.io/badge/Java-991b1b?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-991b1b?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-991b1b?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-991b1b?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Git-991b1b?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-991b1b?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-991b1b?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,react,nodejs,express,mongodb,git,github,docker,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,react,nodejs,express,mongodb,git,github,docker,linux,postman&theme=light" />
 
 </div>
 
