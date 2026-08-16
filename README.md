@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450">
+<img src="https://raw.githubusercontent.com/Manas-Turlapati/Manas-Turlapati/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <br>
 
@@ -74,20 +74,52 @@ An Airbnb-inspired rental listing platform built on **MVC architecture**, suppor
 
 ## Technical Skills
 
-<div align="center">
+<table width="100%" border="1" cellpadding="12" cellspacing="0" style="border-collapse:collapse;border-color:#3a3a3a;">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,html,css,react,nodejs,express,mongodb,git,github,docker,linux,postman&theme=dark" />
+**🎨 Frontend Magic**
 
-</div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+
+**⚙️ Backend Power**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-991b1b?style=for-the-badge" />
+
+</td>
+<td width="50%" valign="top">
+
+**🗄️ Database & Cloud**
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+
+**🛠️ Languages & Tools**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<table>
-<tr><td><strong>Languages</strong></td><td>Java · Python · C · C++ · JavaScript · HTML · CSS · SQL</td></tr>
-<tr><td><strong>Frameworks & Libraries</strong></td><td>React.js · Node.js · Express.js · REST APIs · Leaflet.js · Passport.js</td></tr>
-<tr><td><strong>Databases & Tools</strong></td><td>MongoDB · Git · GitHub · Docker · Linux · Postman · Cloudinary · Thunder Client</td></tr>
-<tr><td><strong>Core CS</strong></td><td>Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks</td></tr>
-</table>
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
 
 <br>
 
@@ -147,7 +179,7 @@ Consistent, daily problem-solving — reflected in back-to-back LeetCode streak 
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Turlapati&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=Manas-Turlapati&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 <br>
 
