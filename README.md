@@ -174,6 +174,11 @@ Consistent, daily problem-solving — reflected in back-to-back LeetCode streak 
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/Manas-Turlapati/Manas-Turlapati/output/github-contribution-grid-snake-dark.svg" width="400"/>
+
+<br><br>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Manas-Turlapati&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&bg_color=0d1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Turlapati&layout=compact&theme=dark&hide_border=true&title_color=ef4444&text_color=c9d1d9&bg_color=0d1117" />
 
