@@ -99,7 +99,7 @@ An Airbnb-inspired rental listing platform built on **MVC architecture**, suppor
 
 <br><br>
 
-<img src="https://leetcard.jacoblin.cool/manasturlapati?theme=dark&font=baloo2&ext=activity" width="500" />
+<img src="https://leetcard.jacoblin.cool/manasturlapati?theme=dark&font=baloo2" width="500" />
 
 <br>
 
