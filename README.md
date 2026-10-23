@@ -25,13 +25,30 @@
 
 ## Profile
 
-Computer Science undergraduate at VIT Chennai (**GPA 8.94/10**) and a software engineer at heart — someone who cares about how systems are designed, not just what they do. Experienced in building and deploying full-stack and AI-integrated applications using React, Node.js, and MongoDB, with a particular interest in AI-integrated projects. Solid grounding in data structures and algorithms, sharpened through consistent, daily LeetCode practice. Currently preparing for placements at product-based companies, with a focus on building scalable systems and writing clean, maintainable code.
+Computer Science undergraduate at VIT Chennai (**GPA 8.94/10**) and a software engineer at heart — someone who cares about how systems are designed, not just what they do. Experienced in building and deploying full-stack, real-time, and AI-integrated applications using React, Node.js, MongoDB, Socket.io, and WebRTC, with a particular interest in AI-integrated projects. Solid grounding in data structures and algorithms, sharpened through consistent, daily LeetCode practice. Currently preparing for placements at product-based companies, with a focus on building scalable systems and writing clean, maintainable code.
 
 <br>
 
 ## Featured Projects
 
 <table>
+<tr>
+<td width="100%">
+
+### 📹 PeerConnect: Real-Time Video Conferencing
+
+<img src="https://img.shields.io/badge/React-991b1b?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-991b1b?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-991b1b?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-991b1b?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-991b1b?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-991b1b?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/STUN%2FTURN-991b1b?style=flat-square" />
+
+**[Live Demo →](https://peer-connect-live-conferencing.vercel.app/)**
+
+A peer-to-peer video conferencing app built on **WebRTC**, with **Socket.io** handling signaling, room management, and in-call chat.
+
+- Implemented the WebRTC signaling flow (offer/answer/ICE candidate exchange) over Socket.io to establish direct peer connections between participants
+- Configured **STUN and TURN servers** so calls connect reliably across restrictive NATs and firewalls
+- Built in-call chat, room ID sharing, and meeting history, and handled media device permissions and socket/peer connection lifecycle cleanup using React `useRef` patterns
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
@@ -92,6 +109,12 @@ An Airbnb-inspired rental listing platform built on **MVC architecture**, suppor
 
 <br><br>
 
+**📡 Real-Time & Networking**
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/STUN%2FTURN-b91c1c?style=for-the-badge" />
+
+<br><br>
+
 **🗄️ Database & Cloud**
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
@@ -116,6 +139,7 @@ An Airbnb-inspired rental listing platform built on **MVC architecture**, suppor
 
 <table>
 <tr><td><strong>Core CS</strong></td><td>Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks</td></tr>
+<tr><td><strong>Real-Time</strong></td><td>WebRTC · Socket.io · STUN/TURN · Signaling · Peer-to-Peer Networking</td></tr>
 <tr><td><strong>Databases & Tools</strong></td><td>MongoDB · Git · GitHub · Docker · Linux · Postman · Cloudinary · Thunder Client</td></tr>
 </table>
 
@@ -188,7 +212,7 @@ Consistent, daily problem-solving — reflected in back-to-back LeetCode streak 
 
 ## Currently Focused On
 
-Interview and system-design preparation for product-based company placements, alongside continued work on scalable systems and AI-integrated applications.
+Interview and system-design preparation for product-based company placements, alongside continued work on scalable systems, real-time applications, and AI-integrated projects.
 
 <br>
 
